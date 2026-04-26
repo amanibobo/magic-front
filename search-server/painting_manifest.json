@@ -1,0 +1,14 @@
+[
+  { "id": "1", "file": "inspiration-01.png", "alt": "Soccer and classical Assumption, side-by-side" },
+  { "id": "2", "file": "inspiration-02.png", "alt": "Basketball and Renaissance figures, side-by-side" },
+  { "id": "3", "file": "inspiration-03.png", "alt": "Hockey huddle and abstract painting" },
+  { "id": "4", "file": "inspiration-04.png", "alt": "Hockey scrum and Brueghel-style crowd" },
+  { "id": "5", "file": "inspiration-05.png", "alt": "Basketball and saint with outstretched arms" },
+  { "id": "6", "file": "inspiration-06.png", "alt": "Luka and Mantegna Lamentation" },
+  { "id": "7", "file": "inspiration-07.png", "alt": "Duke bench and classical scene" },
+  { "id": "8", "file": "inspiration-08.png", "alt": "Purdue dunk and crescent-moon painting" },
+  { "id": "9", "file": "inspiration-09.png", "alt": "Notre Dame leap and baroque angel" },
+  { "id": "10", "file": "inspiration-10.png", "alt": "Man in trees and Rousseau jungle" },
+  { "id": "11", "file": "inspiration-11.png", "alt": "Dawn Staley and Caravaggio" },
+  { "id": "12", "file": "inspiration-12.png", "alt": "Durant and LeBron, classical bearded pair" }
+]

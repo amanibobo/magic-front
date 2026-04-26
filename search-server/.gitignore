@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+# WikiArt / corpus: SQLite DB + optional legacy JPEG cache
+data/
+*.db
